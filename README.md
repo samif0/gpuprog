@@ -45,4 +45,6 @@ buildlinuxdock && runlinuxdock
 3. access container from vscode (optional)
 - Install Remote Development extension
 - Bottom left click on the remote window icon "><" and select 'attach to running container'
-- select the container you just ran via docker run and build the next 3T market cap company :>
+- select the container you just ran via docker run
+- access the '/workspace' directory that was built
+- build company with 5T marketcap
